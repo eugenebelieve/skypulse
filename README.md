@@ -1,3 +1,6 @@
+![alt skypulse demo]([http://url/to/img.png](https://github.com/eugenebelieve/skypulse/blob/master/public/img/frontend.png?raw=true))
+
+
 ## The process to install is pretty simple:
 
 ### `npm i`
